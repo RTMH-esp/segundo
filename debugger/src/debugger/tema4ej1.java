@@ -3,7 +3,7 @@ package debugger;
 public class tema4ej1 {
 	public static void main(String[] args) {
 		int[] array = { 1, 5, 5, 5, 5, 6,};
-		ejercicio1(array, 5);
+		ejercicio1(array, 1);
 		
 	}
 
